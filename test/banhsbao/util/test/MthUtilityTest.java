@@ -25,6 +25,8 @@ public class MthUtilityTest {
     public void getFactorial_RunsWell_IfValidArgument(){
         System.out.println("blala");
         getFactorial(5);
+        System.out.println("Good luck");
+        System.out.println("Hope that you all will get the GREEN ICONS");
     }
     //ngoại lệ ko phải là 1
 }
