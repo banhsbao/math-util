@@ -23,6 +23,7 @@ public class MthUtilityTest {
     
     @Test()
     public void getFactorial_RunsWell_IfValidArgument(){
+        System.out.println("blala");
         getFactorial(5);
     }
     //ngoại lệ ko phải là 1
