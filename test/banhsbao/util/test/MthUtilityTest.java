@@ -21,9 +21,9 @@ import static org.junit.Assert.*;
  */
 public class MthUtilityTest {
     
-    @Test(expected = IllegalArgumentException.class)
+    @Test()
     public void getFactorial_RunsWell_IfValidArgument(){
-        getFactorial(-5);
+        getFactorial(5);
     }
     //ngoại lệ ko phải là 1
 }
