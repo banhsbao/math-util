@@ -7,6 +7,6 @@ You will find in this repo my own code regarding to most common math methods, e.
 Java source code located in src folder
 ...
 Connect me via
-![https://www.facebook.com/BanhsBao3011]
+![FB]https://www.facebook.com/BanhsBao3011
 
 Copyright ©2020 by BanhsBao
