@@ -21,7 +21,7 @@ import static org.junit.Assert.*;
  */
 public class MthUtilityTest {
     
-    @Test(expected = SQLException.class)
+    @Test(expected = IllegalArgumentException.class)
     public void getFactorial_RunsWell_IfValidArgument(){
         getFactorial(-5);
     }
